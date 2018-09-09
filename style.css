@@ -1,0 +1,213 @@
+h1, h2, h3, h4, h5, li, td, p, th {
+  padding: 10px !important;
+}
+.Dice img {
+  float: left;
+  width: 325px;
+  height: 325px;
+}
+
+.OptionalDice img {
+  float: left;
+  width: 325px;
+  height: 325px;
+}
+
+body {
+  background-color: white;
+  animation: fadeEffect 1s;
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.content {
+  animation: fadeEffect 1s;
+}
+
+p {
+  color: Black;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #0F0072;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+  border-bottom: 3px solid #0F0072;
+  border-length: 100%;
+  margin: 0 auto;
+  box-sizing: content-box;
+  padding: 10px;
+}
+
+h2, h3, h4, h5 {
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  display: table;
+}
+
+.Dice p, .OptionalDice p {
+  font-family: Times;
+}
+
+.Dice h5, .OptionalDice h5 {
+  font-family: Times;
+}
+
+a {
+  background-color: White;
+  color: Black;
+  text-decoration: None;
+}
+
+.Navigation {
+  text-align: center;
+  position: relative;
+  bottom: 10px;
+}
+
+.Navigation a {
+  color: Black;
+  background-color: #DFDFDF;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12.5px;
+  font-size: 20px;
+  transition: background 0.25s ease-in-out;
+}
+
+.Navigation a:hover {
+  background-color: #0F0072;
+  color: #FFF;
+}
+
+.Navigation img {
+  height: 75px;
+  width: 100px;
+  position: relative;
+  transform: translate(0, 40%);
+}
+
+table {
+  color: Black;
+  float: center;
+}
+
+td, th {
+  text-align: center;
+  background-color: #BFBFBF;
+  font-size: 24px;
+  padding: 10px;
+  font-family: 'Ropa Sans', sans-serif;
+}
+
+.Header {
+  Text-align: Center;
+  display: table;
+  align-self: center;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h1, h2, #MiscHeading {
+  color: #0F0072;
+}
+
+p, li {
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 28px;
+}
+
+.Dice-Description h5 {
+  font-family: 'Ropa Sans', sans-serif
+  border: none;
+}
+
+.Dice p, .Dice h5 {
+  font-family: 'Ropa Sans', sans-serif;
+}
+
+.Navigation {
+
+}
+
+.AboutMe img {
+  height: 400px;
+  width: 700px;
+}
+
+#ODParagraph {
+  text-align: center;
+}
+
+.PageDescription {
+  text-align: center;
+}
+
+.Requirements {
+  text-align: center;
+}
+
+.logoimg {
+  text-align: center;
+}
+
+#MainConceptsParagraph {
+  text-align: center;
+}
+
+.Ending h3 {
+  border: none;
+}
+
+#CodeGeass {
+  border: 6px solid #0F0072;
+}
+
+#CodeGeass h2, h3, h4, h5, p, li {
+  margin: 10px;
+  padding: 10px;
+}
+
+#home {
+  background-color: #0F0072;
+  color: white;
+}
+
+#myrpgs {
+  background-color: #0F0072;
+  color: white;
+}
+
+#characters {
+  background-color: #0F0072;
+  color: white;
+}
+
+#tips {
+  background-color: #0F0072;
+  color: white;
+}
+
+#dice {
+  background-color: #0F0072;
+  color: white;
+}
+
+#yourrpgs {
+  background-color: #0F0072;
+  color: white;
+}
+
+hr {
+  padding: none;
+}
