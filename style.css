@@ -211,3 +211,7 @@ p, li {
 hr {
   padding: none;
 }
+
+#email {
+  display: inline;
+}
