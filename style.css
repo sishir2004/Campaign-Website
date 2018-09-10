@@ -212,6 +212,7 @@ hr {
   padding: none;
 }
 
-#email {
+#email p {
   display: inline;
+  border: none;
 }
