@@ -212,7 +212,7 @@ hr {
   padding: none;
 }
 
-#email p {
+h4 #email {
   display: inline;
   border: none;
 }
